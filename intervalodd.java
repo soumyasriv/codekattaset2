@@ -6,7 +6,7 @@ public static void main(String[] args)
 Scanner sc=new Scanner(System.in);
 int m=nextInt();
 int n=nextInt();
-for(int i=m+1;i<=n-1;i++);
+for(int i=m;i<=n;i++);
 {
 if (i%2!=0)
 {
